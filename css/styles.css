@@ -1,0 +1,19 @@
+.pigTurnMessage {
+  display: none;
+}
+
+.skunkTurnMessage {
+  display: none;
+}
+
+.jumbotron {
+    margin-bottom: 1px;
+    background-image: url(http://www.cliparthut.com/clip-arts/47/cartoon-pig-face-47166.png);
+    background-position: 5% 27%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #F8F8F8;
+    text-shadow: black 0.1em 0.1em 0.3em;
+    border-style: solid;
+    border-color: black;
+}
